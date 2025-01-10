@@ -1,0 +1,28 @@
+html{
+    background-image: url("16141754-libro-biblioteca-icona-nel-comico-stile-enciclopedia-cartone-animato-vettore-illustrazione-sfondo-dizionario-cartello-attivita-commerciale-concetto-spruzzo-effetto-vettoriale.jpg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#dizionario{
+    text-align: center;
+    width: 20%;
+    margin: auto;
+    background-color: rgba(10,10,10,0.7);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0 0 -175px;
+    border: black solid;
+    box-shadow: 8px 8px 8px 8px black ;
+    border-radius: 5px;
+    
+}
+label{
+    display: block;
+}
+input{
+    max-width: 80%;
+    margin: auto;
+}
